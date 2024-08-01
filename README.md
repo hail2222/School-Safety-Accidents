@@ -5,6 +5,9 @@
 
 The purpose of this project is to identify the types of incidents that incur the highest compensation through the correlation analysis between safety incidents and compensation. I aimed to gain insights into preventing specific types of incidents to efficiently reduce compensation payouts.
 
+##### (Tableau visualization submitted to a big data competition hosted by the Korean Ministry of Education, and was selected to present to government officials.)
+
+
 <img width="1527" alt="스크린샷 2023-12-11 오후 9 53 54" src="https://github.com/hail2222/School-Safety-Accidents/assets/100838589/e0e1f50e-d4bb-48bd-b8e9-1587c80d329b">
 
 
